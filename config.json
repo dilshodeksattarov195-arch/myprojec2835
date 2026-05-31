@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildpdate",
+        "uuid": 3356640,
+        "checksum": "7t8qrb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
